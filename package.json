@@ -1,0 +1,54 @@
+{
+  "name": "react-freeze-body",
+  "version": "1.0.0",
+  "description": "Apply overflow hidden to the document.body the react way.",
+  "main": "./dist/react-freeze-body.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanford/react-freeze-body.git"
+  },
+  "homepage": "https://github.com/hanford/react-freeze-body",
+  "bugs": "https://github.com/hanford/react-freeze-body/issues",
+  "scripts": {
+    "build": "webpack -p"
+  },
+  "authors": [
+    "Jack Hanford"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "~6.24.1",
+    "babel-loader": "~6.4.1",
+    "babel-preset-env": "~1.5.2",
+    "babel-preset-react": "~6.24.1",
+    "babel-preset-stage-0": "~6.24.1",
+    "react": "~15.5.3",
+    "react-dom": "~15.5.3",
+    "webpack": "~2.3.3"
+  },
+  "dependencies": {
+    "global": "~4.3.2"
+  },
+  "peerDependencies": {
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0"
+  },
+  "tags": [
+    "react",
+    "document.body",
+    "overflow",
+    "hidden",
+    "block",
+    "touchmove",
+    "scroll"
+  ],
+  "keywords": [
+    "react",
+    "document.body",
+    "overflow",
+    "hidden",
+    "block",
+    "touchmove",
+    "scroll"
+  ]
+}
