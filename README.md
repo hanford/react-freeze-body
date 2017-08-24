@@ -2,6 +2,8 @@
 
 Add `overflow: hidden;` to the `document.body`, the react way.
 
+Pass `html` in as a prop to conditionally freeze html too!
+
 <br />
 
 ## Install
