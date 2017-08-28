@@ -10,7 +10,8 @@
   "homepage": "https://github.com/hanford/react-freeze-body",
   "bugs": "https://github.com/hanford/react-freeze-body/issues",
   "scripts": {
-    "build": "webpack -p"
+    "build": "webpack -p",
+    "prepare": "npm run build"
   },
   "authors": [
     "Jack Hanford"
