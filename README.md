@@ -1,6 +1,6 @@
 ## react-freeze-body
 
-Add `overflow: hidden;` to the `document.body`, the react way.
+Add `overflow: hidden;` to the `document.body`, the react HOC way.
 
 Pass `html` in as a prop to conditionally freeze html too!
 
